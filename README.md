@@ -4,7 +4,5 @@ According to Merriam Webster, sarcasm is *the use of words that mean the opposit
 This system intends to run a basic sarcasm detector for twitter messages one message at a time.
 
 
-## Process
-
 
  
