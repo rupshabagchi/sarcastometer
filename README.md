@@ -6,5 +6,5 @@ This system intends to run a basic sarcasm detector for twitter messages one mes
 
 ## Process
 
-## Getting started with this repo
+
  
