@@ -8,7 +8,7 @@ According to Merriam Webster, sarcasm is defined as "*the use of words that mean
 
 #### TODO
 
-Frontend with py files as api
+Frontend with flask/django
 
 
 
