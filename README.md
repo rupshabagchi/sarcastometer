@@ -1,5 +1,6 @@
 # Sarcastometer
 
+![alt text](https://github.com/rupshabagchi/sarcastometer/blob/master/sarcasm.jpg "sarc")
 
 This system intends to run a basic sarcasm detector for twitter messages one message at a time.
 
